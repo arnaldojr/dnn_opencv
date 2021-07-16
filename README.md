@@ -37,7 +37,7 @@ EfficientNet|
 [fonte da tabela](https://learnopencv.com/deep-learning-with-opencvs-dnn-module-a-definitive-guide/)
 
 
-## Exemplos moódulo DNN OpenCV
+## Exemplos módulo DNN OpenCV
 
  Para rodar o módulo DNN vamos seguir um passo-a-passo, uma "receita de bolo":
 
